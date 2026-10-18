@@ -3,3 +3,4 @@ testovací repozitář
 
 git clone  -testuji nový git
 git add
+hvdtgh
